@@ -1,0 +1,29 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.left-container {
+    background-color: lightblue;
+}
+.right-container {
+    background-color: lightyellow;
+}
+
+img {
+    width: 2%;
+    padding: 2px;
+    margin: 3px;
+}
+
+h1 {
+    font-family: LifeCraft;
+}
+.nav-headline {
+    font-family: "Matura MT Script Capitals"
+}
+
+.boss {
+    border-bottom: 4px dashed grey;
+   padding-bottom: 5%;
+    margin-bottom: 5%;
+}
