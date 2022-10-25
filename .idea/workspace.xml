@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="258293c2-500f-40d3-a830-7f22023a8150" name="Default Changelist" comment="init" />
+    <list default="true" id="258293c2-500f-40d3-a830-7f22023a8150" name="Default Changelist" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,10 +40,22 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kraft\git\raidpreparation\js" />
+      <recent name="C:\Users\kraft\git\raidpreparation\css" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -65,6 +80,7 @@
       <updated>1666704535521</updated>
       <workItem from="1666704536572" duration="10228000" />
       <workItem from="1666722118055" duration="994000" />
+      <workItem from="1666723241315" duration="2113000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1666722655451</created>
@@ -73,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666722655451</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1666723728523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666723728523</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,31 +112,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-1193" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1666708217097">
-      <screen x="-1920" y="0" width="1920" height="1032" />
-    </state>
-    <state x="-1193" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032/-1920.0.1920.1032/-3840.0.1920.1032@-1920.0.1920.1032" timestamp="1666708217097" />
-    <state x="-1180" y="270" key="FileChooserDialogImpl" timestamp="1666722421845">
-      <screen x="-1920" y="0" width="1920" height="1032" />
-    </state>
-    <state x="-1180" y="270" key="FileChooserDialogImpl/0.0.1920.1032/-1920.0.1920.1032/-3840.0.1920.1032@-1920.0.1920.1032" timestamp="1666722421845" />
-    <state x="-1112" y="218" key="RollbackChangesDialog" timestamp="1666722622137">
-      <screen x="-1920" y="0" width="1920" height="1032" />
-    </state>
-    <state x="-1112" y="218" key="RollbackChangesDialog/0.0.1920.1032/-1920.0.1920.1032/-3840.0.1920.1032@-1920.0.1920.1032" timestamp="1666722622137" />
-    <state x="-1368" y="248" key="Vcs.Push.Dialog.v2" timestamp="1666722912692">
-      <screen x="-1920" y="0" width="1920" height="1032" />
-    </state>
-    <state x="-1368" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1032/-1920.0.1920.1032/-3840.0.1920.1032@-1920.0.1920.1032" timestamp="1666722912692" />
-    <state x="-1159" y="422" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1666722565828">
-      <screen x="-1920" y="0" width="1920" height="1032" />
-    </state>
-    <state x="-1159" y="422" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1032/-1920.0.1920.1032/-3840.0.1920.1032@-1920.0.1920.1032" timestamp="1666722565828" />
   </component>
 </project>
